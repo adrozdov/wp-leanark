@@ -10,7 +10,7 @@
 <channel>
 	<title>LeanArk</title>
 	<atom:link href="http://192.168.64.2/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>http://adrozdov.github.io/wp-leanark/</link>
+	<link>https://adrozdov.github.io/wp-leanark/</link>
 	<description></description>
 	<lastBuildDate>Sat, 28 Aug 2021 17:31:38 +0000</lastBuildDate>
 	<language>en-US</language>
