@@ -10,52 +10,14 @@
 <channel>
 	<title>LeanArk</title>
 	<atom:link href="http://192.168.64.2/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://adrozdov.github.io/wp-leanark/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 24 Aug 2021 22:43:24 +0000</lastBuildDate>
+	<link>http://adrozdov.github.io/wp-leanark/</link>
+	<description></description>
+	<lastBuildDate>Sat, 28 Aug 2021 17:31:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://adrozdov.github.io/wp-leanark/index.php/2021/08/22/hello-world/</link>
-					<comments>https://adrozdov.github.io/wp-leanark/index.php/2021/08/22/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[natasha]]></dc:creator>
-		<pubDate>Sun, 22 Aug 2021 19:28:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://adrozdov.github.io/wp-leanark/?p=1</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_0">
-								<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p></div>
-			</div>
-			</div>			
-				
-				
-			</div>		
-				
-				
-			</div>]]></content:encoded>
-					
-					<wfw:commentRss>https://adrozdov.github.io/wp-leanark/index.php/2021/08/22/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
