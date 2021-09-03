@@ -10,14 +10,22 @@
 <channel>
 	<title>LeanArk</title>
 	<atom:link href="http://192.168.64.2/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://adrozdov.github.io/wp-leanark/</link>
-	<description></description>
-	<lastBuildDate>Sat, 28 Aug 2021 17:31:38 +0000</lastBuildDate>
+	<link>http://https://adrozdov.github.io/wp-leanark/</link>
+	<description>WordPress Solutions</description>
+	<lastBuildDate>Fri, 03 Sep 2021 16:46:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>http://https://adrozdov.github.io/wp-leanark/wp-content/uploads/2021/09/cropped-leanark_icon-32x32.png</url>
+	<title>LeanArk</title>
+	<link>http://https://adrozdov.github.io/wp-leanark/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
